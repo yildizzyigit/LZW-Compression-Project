@@ -16,4 +16,6 @@ This project implements the LZW (Lempel-Ziv-Welch) compression algorithm in Pyth
 - Pillow
 
 ## How to run
+Run the GUI to use all levels:
+OR
 Run each level separately:
